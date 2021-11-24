@@ -40,18 +40,18 @@ Replace the "Activity" column with descriptive activity names found activity_lab
 # 4. Appropriately labels the data set with descriptive variable names. 
 
 Replace the following acronyms with descriptive variable names:
-"Acc" with "Accelerometer"
-"Gyro" with "Gyroscope"
-"BodyBody" with "Body"
-"Mag" with "Magnitude"
-"^t" with "Time"
-"^f" with "Frequency"
-"tBody" with "TimeBody"
-"-mean()" with "Mean"
-"-std()" with "STD"
-"-freq()" with "Frequency"
-"angle" with "Angle"
-"gravity" with "Gravity"
+* "Acc" with "Accelerometer"
+* "Gyro" with "Gyroscope"
+* "BodyBody" with "Body"
+* "Mag" with "Magnitude"
+* "^t" with "Time"
+* "^f" with "Frequency"
+* "tBody" with "TimeBody"
+* "-mean()" with "Mean"
+* "-std()" with "STD"
+* "-freq()" with "Frequency"
+* "angle" with "Angle"
+* "gravity" with "Gravity"
 
 
 # 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
