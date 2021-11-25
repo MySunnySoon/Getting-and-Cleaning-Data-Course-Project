@@ -35,9 +35,11 @@ Extract 1st, 2nd and columns_mean_std column from merged_data into extracted_dat
 
 Read activity_labels.txt and store them in activity_labels variable.
 
-Replace the "Activity" column with descriptive activity names found activity_labels 
+Replace the "Activity" column with descriptive activity names found in activity_labels 
 
 # 4. Appropriately labels the data set with descriptive variable names. 
+
+Review labels in extracted_data
 
 Replace the following acronyms with descriptive variable names:
 * "Acc" with "Accelerometer"
